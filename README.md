@@ -1,1 +1,1 @@
-# hangman
+The creation of a Hangman game following The Odin Project.
